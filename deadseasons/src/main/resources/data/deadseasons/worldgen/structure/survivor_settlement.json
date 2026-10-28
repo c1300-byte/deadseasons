@@ -1,0 +1,8 @@
+{
+  "type": "deadseasons:town",
+  "biomes": "#deadseasons:has_town",
+  "step": "surface_structures",
+  "spawn_overrides": {},
+  "terrain_adaptation": "none",
+  "settlement": true
+}

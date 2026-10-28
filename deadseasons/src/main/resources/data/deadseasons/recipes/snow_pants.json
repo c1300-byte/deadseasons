@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WCW",
+    "W W",
+    "W W"
+  ],
+  "key": {
+    "C": {
+      "item": "deadseasons:cloth"
+    },
+    "W": {
+      "tag": "minecraft:wool"
+    }
+  },
+  "result": {
+    "item": "deadseasons:snow_pants",
+    "count": 1
+  }
+}

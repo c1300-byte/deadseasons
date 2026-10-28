@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "deadseasons:infection",
+    "deadseasons:dehydration",
+    "deadseasons:hypothermia",
+    "deadseasons:heatstroke"
+  ]
+}

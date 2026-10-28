@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "P",
+    "T",
+    "I"
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:stone_pressure_plate"
+    },
+    "T": {
+      "item": "minecraft:tnt"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "deadseasons:landmine",
+    "count": 2
+  }
+}

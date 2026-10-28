@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "M M",
+    "MIM",
+    "M M"
+  ],
+  "key": {
+    "M": {
+      "item": "deadseasons:scrap_metal"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "deadseasons:metal_barricade",
+    "count": 2
+  }
+}

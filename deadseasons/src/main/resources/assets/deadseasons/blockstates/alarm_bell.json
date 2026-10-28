@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "deadseasons:block/alarm_bell"
+    },
+    "powered=true": {
+      "model": "deadseasons:block/alarm_bell"
+    }
+  }
+}

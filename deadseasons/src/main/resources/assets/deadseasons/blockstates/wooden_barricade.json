@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "damage=0": {
+      "model": "deadseasons:block/wooden_barricade_0"
+    },
+    "damage=1": {
+      "model": "deadseasons:block/wooden_barricade_1"
+    },
+    "damage=2": {
+      "model": "deadseasons:block/wooden_barricade_2"
+    },
+    "damage=3": {
+      "model": "deadseasons:block/wooden_barricade_3"
+    },
+    "damage=4": {
+      "model": "deadseasons:block/wooden_barricade_3"
+    },
+    "damage=5": {
+      "model": "deadseasons:block/wooden_barricade_3"
+    },
+    "damage=6": {
+      "model": "deadseasons:block/wooden_barricade_3"
+    },
+    "damage=7": {
+      "model": "deadseasons:block/wooden_barricade_3"
+    }
+  }
+}

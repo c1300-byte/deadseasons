@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "deadseasons:block/floodlight_front",
+    "side": "deadseasons:block/floodlight_side"
+  }
+}

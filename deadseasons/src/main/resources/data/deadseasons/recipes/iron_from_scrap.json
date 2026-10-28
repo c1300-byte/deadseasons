@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "deadseasons:scrap_metal"
+    },
+    {
+      "item": "deadseasons:scrap_metal"
+    },
+    {
+      "item": "deadseasons:scrap_metal"
+    },
+    {
+      "item": "deadseasons:scrap_metal"
+    }
+  ],
+  "result": {
+    "item": "minecraft:iron_ingot",
+    "count": 1
+  }
+}

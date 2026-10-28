@@ -1,0 +1,149 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": {
+        "type": "minecraft:uniform",
+        "min": 4,
+        "max": 7
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "deadseasons:rifle_ammo",
+          "weight": 12,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 4,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deadseasons:handgun_ammo",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 4,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deadseasons:hunting_rifle",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deadseasons:assault_rifle",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deadseasons:smg",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deadseasons:military_helmet",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deadseasons:military_vest",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deadseasons:military_pants",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deadseasons:military_boots",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deadseasons:mre",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deadseasons:medkit",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deadseasons:landmine",
+          "weight": 4,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deadseasons:barbed_wire",
+          "weight": 6,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 2,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deadseasons:gun_parts",
+          "weight": 6,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deadseasons:gas_mask",
+          "weight": 3
+        }
+      ]
+    }
+  ]
+}

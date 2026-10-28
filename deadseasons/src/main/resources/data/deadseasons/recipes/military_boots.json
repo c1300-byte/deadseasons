@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "C C",
+    "I I"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "C": {
+      "item": "deadseasons:cloth"
+    }
+  },
+  "result": {
+    "item": "deadseasons:military_boots",
+    "count": 1
+  }
+}

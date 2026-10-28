@@ -1,0 +1,92 @@
+{
+  "pistol_shot": {
+    "subtitle": "subtitles.deadseasons.pistol_shot",
+    "sounds": [
+      {
+        "name": "deadseasons:pistol_shot",
+        "stream": false
+      }
+    ]
+  },
+  "rifle_shot": {
+    "subtitle": "subtitles.deadseasons.rifle_shot",
+    "sounds": [
+      {
+        "name": "deadseasons:rifle_shot",
+        "stream": false
+      }
+    ]
+  },
+  "shotgun_shot": {
+    "subtitle": "subtitles.deadseasons.shotgun_shot",
+    "sounds": [
+      {
+        "name": "deadseasons:shotgun_shot",
+        "stream": false
+      }
+    ]
+  },
+  "smg_shot": {
+    "subtitle": "subtitles.deadseasons.smg_shot",
+    "sounds": [
+      {
+        "name": "deadseasons:smg_shot",
+        "stream": false
+      }
+    ]
+  },
+  "gun_reload": {
+    "subtitle": "subtitles.deadseasons.gun_reload",
+    "sounds": [
+      {
+        "name": "deadseasons:gun_reload",
+        "stream": false
+      }
+    ]
+  },
+  "gun_empty": {
+    "subtitle": "subtitles.deadseasons.gun_empty",
+    "sounds": [
+      {
+        "name": "deadseasons:gun_empty",
+        "stream": false
+      }
+    ]
+  },
+  "screamer_scream": {
+    "subtitle": "subtitles.deadseasons.screamer_scream",
+    "sounds": [
+      {
+        "name": "deadseasons:screamer_scream",
+        "stream": false
+      }
+    ]
+  },
+  "airdrop_plane": {
+    "subtitle": "subtitles.deadseasons.airdrop_plane",
+    "sounds": [
+      {
+        "name": "deadseasons:airdrop_plane",
+        "stream": true
+      }
+    ]
+  },
+  "truck_engine": {
+    "subtitle": "subtitles.deadseasons.truck_engine",
+    "sounds": [
+      {
+        "name": "deadseasons:truck_engine",
+        "stream": false
+      }
+    ]
+  },
+  "blood_moon": {
+    "subtitle": "subtitles.deadseasons.blood_moon",
+    "sounds": [
+      {
+        "name": "deadseasons:blood_moon",
+        "stream": false
+      }
+    ]
+  }
+}
